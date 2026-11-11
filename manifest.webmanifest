@@ -1,0 +1,9 @@
+{
+  "name": "꿀잠 ASMR",
+  "short_name": "꿀잠 ASMR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#081522",
+  "theme_color": "#091522",
+  "lang": "ko"
+}
